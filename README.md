@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @MarchelGunawan
-- 👀 I’m interested in software engineer
+- 👀 I’m interested in Artificial Intelligence, Mobile Programming and Computer Vision
 - 🌱 I’m currently learning Artificial Intelligence, Mobile Programming and Computer Vision
 
 <!---
